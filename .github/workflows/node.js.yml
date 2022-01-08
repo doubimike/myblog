@@ -27,4 +27,4 @@ jobs:
     - run: npm install
     - name: hexo deply
       run: npm run clean
-      run: npm run deploy
+           npm run deploy
