@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Mic World
 subtitle: ''
-description: ''
+description: 'doubimike 写东西的地方'
 keywords:
-author: John Doe
-language: en
+author: doubimike
+language: zh-CN
 timezone: ''
 
 # URL
